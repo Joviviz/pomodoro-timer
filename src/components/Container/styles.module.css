@@ -5,10 +5,8 @@
 
 .container-fluid{
   max-width: auto;
-  background-color: purple;
 }
 
 .content {
-  background: blue;
   margin: 3.2rem;
 }
